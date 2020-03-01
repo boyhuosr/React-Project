@@ -1,0 +1,12 @@
+.menucontainer{
+    display: flex;
+    justify-content: center;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom: solid 1px;
+}
+
+.menuitem{
+    list-style-type: none;
+    margin: 0.5em;
+}

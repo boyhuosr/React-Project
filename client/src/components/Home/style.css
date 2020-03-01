@@ -1,0 +1,48 @@
+
+
+.h_container{
+    width:40em;
+    max-width:calc(100%-4em);
+    margin: 0 auto;
+
+}
+
+.container {
+    
+    align-items: center;
+    text-align: left;
+    padding: 2em;
+    border-bottom: solid 1px #ddd;
+}
+
+.container .title {
+    flex: 1;
+    margin: 0 auto;
+}
+
+.message{
+    border-bottom: solid 1px #ddd;
+}
+
+.inputArea{
+    margin-top: 2rem;
+    border: solid 1px #ddd;
+    border-radius: 5%;
+}
+
+.inputArea h3{
+    text-align: center;
+}
+
+.inputTitle{
+    
+    
+    background-color: #ddd;
+}
+
+.inputContent{
+    
+    
+    background-color: #ddd;
+    height:20rem;
+}

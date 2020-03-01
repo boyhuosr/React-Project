@@ -1,0 +1,16 @@
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.info .tag {
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    color: #636363;
+}
+
+.info .tag img {
+    margin-right: 5px;
+}
